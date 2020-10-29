@@ -1,0 +1,9 @@
+{
+  "name": "cypress-regression",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^4.12.0"
+  }
+}
